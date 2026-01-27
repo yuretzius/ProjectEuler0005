@@ -1,2 +1,4 @@
 # ProjectEuler0005
-My work on problem #45of projecteuler.net
+My work on problem #5
+
+of projecteuler.net
