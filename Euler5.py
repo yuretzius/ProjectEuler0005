@@ -38,7 +38,7 @@ def IncompletePrimeFactor(N):
     of a single factor > sqrt(N). If N is prime, it returns an empty list.
     """
     # create the list of primes lower or equal to sqrt(N)
-    primes = np.array(Erat(int(np.ceil(np.sqrt(N)))))
+    primes = np.array(Erat(int(np.floor(np.sqrt(N)))))
     # if N is divisible by a prime, N%p = 0
     # so when we create an array of N%p for all primes
     # it has 0 entries for factors and non-zero one for non-factors
