@@ -1,7 +1,7 @@
 # ProjectEuler0005
 My work on
 
-problem #5 of projecteuler.net
+[problem #5 of projecteuler.net](https://projecteuler.net/problem=5):
 
 Smallest Multiple
 
