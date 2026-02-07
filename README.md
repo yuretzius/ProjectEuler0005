@@ -16,7 +16,7 @@ Please note: Project Euler's policy allows publication of solutions for the firs
 that's why I am sharing my work here for reference and educational purposes.
 #######################################################################################
 
-This is an example of a problem that is easiest to do with a pen, paper, and calculator or perhaps a spreadsheet (see Euler5.xlsx).
+This is an example of a problem that is easiest to do with a pen, paper, and calculator or perhaps a spreadsheet (see [Euler5.xlsx](https://github.com/yuretzius/ProjectEuler0005/blob/main/Euler5.xlsx)).
 Indeed, just listing the numbers from 2 to 20 we see that only two prime factors are encountered in them multiple times, 2 and 3.
 For 2 the maximum is: 2 * 2 * 2 * 2 = 16 and for 3: 3 * 3 = 9. Thus the immediate answer is:
 
