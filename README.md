@@ -3,18 +3,16 @@ My work on
 
 [problem #5 of projecteuler.net](https://projecteuler.net/problem=5):
 
-Smallest Multiple
+### Smallest Multiple
 
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
 What is the smallest positive number that is evenly divisible (divisible with no remainder) by all of the numbers from 1 to 20 ?
 
-Completed on Sat, 20 Feb 2021, 18:35
+*Completed on Sat, 20 Feb 2021, 18:35*
 
-#######################################################################################
-Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
-that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+> [!NOTE]
+> Project Euler's policy allows publication of solutions for the first 100 problems, that's why I am sharing my work here for reference and educational purposes.
 
 This is an example of a problem that is easiest to do with a pen, paper, and calculator or perhaps a spreadsheet (see [Euler5.xlsx](https://github.com/yuretzius/ProjectEuler0005/blob/main/Euler5.xlsx)).
 Indeed, just listing the numbers from 2 to 20 we see that only two prime factors are encountered in them multiple times, 2 and 3.
